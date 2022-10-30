@@ -3035,6 +3035,12 @@ textarea.form-control-lg {
   background-color: #ffc800;
   border-color: #ffc800;
 }
+
+.btn-tryOurGame {
+  color: #fff;
+  background-color: #ff0000;
+  border-color: #ff0000;
+}
 .btn-primary:hover {
   color: #fff;
   background-color: #d9aa00;
